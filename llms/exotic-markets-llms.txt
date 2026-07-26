@@ -1,0 +1,17 @@
+# Exotic Markets
+
+## Exotic Markets
+
+- [What is Exotic?](https://docs.exotic.markets/exotic-markets-v2/introduction/what-is-exotic.md): The #1 Options Protocol on Solana
+- [Why Options](https://docs.exotic.markets/exotic-markets-v2/introduction/why-options.md)
+- [Getting started](https://docs.exotic.markets/exotic-markets-v2/getting-started.md)
+- [How Exotic Works](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/how-exotic-works.md)
+- [Our Products](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/our-products.md)
+- [Yields](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/our-products/yields.md)
+- [Options](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/our-products/options.md)
+- [Advantages](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/advantages.md)
+- [Key Terms](https://docs.exotic.markets/exotic-markets-v2/core-mechanics/key-terms.md)
+- [$EXO Tokenomics](https://docs.exotic.markets/exotic-markets-v2/token-information/usdexo-tokenomics.md)
+- [$EXO Utility Framework](https://docs.exotic.markets/exotic-markets-v2/token-information/usdexo-utility-framework.md)
+- [$EXO STAKING](https://docs.exotic.markets/exotic-markets-v2/token-information/usdexo-staking.md): Lock EXO. Earn EXO Points. Unlock Maximum Utility.
+- [FAQ](https://docs.exotic.markets/exotic-markets-v2/more-info/faq.md)

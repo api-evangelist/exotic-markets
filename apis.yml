@@ -1,8 +1,14 @@
 aid: exotic-markets
 name: Exotic Markets
-description: 'Exotic Markets is a company surfaced as a portfolio company of multicoin-capital and added
-  to the API Evangelist network as a stub for enrichment. Sector: crypto-web3. This profile is a lead
-  awaiting the enrichment pipeline.'
+description: 'Exotic Markets is a decentralized options and structured-products protocol on the Solana
+  blockchain, describing itself as the #1 options protocol on Solana and backed by Multicoin Capital.
+  The platform lets users earn yield or buy call/put options through flexible structured products,
+  including baskets of tokens, accumulators, and capital-preservation strategies with customizable
+  payoffs and maturities. Access is on-chain via a Solana wallet (Phantom, Solflare) and the $EXO token
+  powers staking, points, and protocol utility. Exotic Markets is a smart-contract DeFi protocol rather
+  than a REST/HTTP API provider: there is no public OpenAPI, gateway, or hosted developer API surface;
+  developer materials are limited to GitBook documentation, a GitHub organization, and community
+  channels.'
 url: https://raw.githubusercontent.com/api-evangelist/exotic-markets/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -10,12 +16,30 @@ x-backed-by:
 - multicoin-capital
 x-tier: stub
 x-tier-reason: portfolio-lead
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
+image: https://exotic.markets/favicon.ico
 tags:
 - Company
 - Crypto Web3
+- DeFi
+- Solana
+- Options
+- Structured Products
+- Derivatives
+- Blockchain
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,5 +47,24 @@ maintainers:
 - FN: APIs.json
   email: info@apis.io
 common:
+- type: DomainSecurity
+  url: security/exotic-markets-domain-security.yml
 - type: Website
   url: https://exotic.markets
+- type: Documentation
+  url: https://docs.exotic.markets/exotic-markets-v2
+- type: GettingStarted
+  url: https://docs.exotic.markets/exotic-markets-v2/getting-started
+- type: GitHubOrganization
+  url: https://github.com/exotic-markets
+- type: Support
+  url: https://discord.gg/invite/exoticmarkets
+- type: X
+  url: https://x.com/ExoticMarkets
+- type: LLMsTxt
+  url: llms/exotic-markets-llms.txt
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
